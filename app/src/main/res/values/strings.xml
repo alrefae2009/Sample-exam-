@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">long_v2</string>
+
+
+    <string-array name="From">
+        <item> Sharjah </item>
+        <item> DXB </item>
+        <item> Ajman  </item>
+
+    </string-array>
+    <string-array name="To">
+        <item> Sharjah </item>
+        <item> DXB </item>
+        <item> Ajman  </item>
+
+    </string-array>
+</resources>
